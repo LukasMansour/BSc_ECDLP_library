@@ -1,0 +1,2 @@
+class CircuitNotSupportedError(Exception):
+    pass

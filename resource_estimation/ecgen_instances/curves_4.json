@@ -1,0 +1,47 @@
+[
+{
+    "field": {
+        "p": "0x0b"
+    },
+    "a": "0x03",
+    "b": "0x02",
+    "order": "0x0d",
+    "subgroups": [
+        {
+            "x": "0x0a",
+            "y": "0x08",
+            "order": "0xd",
+            "cofactor": "0x1",
+            "points": [
+                {
+                    "x": "0x0a",
+                    "y": "0x08",
+                    "order": "0xd"
+                }
+            ]
+        }
+    ]
+},
+{
+    "field": {
+        "p": "0x0b"
+    },
+    "a": "0x01",
+    "b": "0x05",
+    "order": "0x0b",
+    "subgroups": [
+        {
+            "x": "0x0a",
+            "y": "0x05",
+            "order": "0xb",
+            "cofactor": "0x1",
+            "points": [
+                {
+                    "x": "0x0a",
+                    "y": "0x05",
+                    "order": "0xb"
+                }
+            ]
+        }
+    ]
+}]
