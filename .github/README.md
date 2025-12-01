@@ -1,6 +1,6 @@
 # (EC)DLP Arithmetics for Qiskit
 
-This small library was part of my Bachelor's examination. 
+This small library was part of my Bachelor's examination. It was built during my time at the CQTA (Center for Quantum Technology and Applications) at DESY.
 I used it to create quantum arithmetic circuits for resource estimates.
 It includes many important quantum arithmetic circuits allowing one to
 run Shor's algorithm with a semi-classical quantum fourier transform to DLP instances.
